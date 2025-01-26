@@ -102,7 +102,7 @@ cargo run
 2. Build and start the containers:
 ```
 docker compose build
-docker compose up -db
+docker compose up -d
 docker compose up rustapp
 ```
 
