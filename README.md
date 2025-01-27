@@ -114,6 +114,6 @@ This will:
 
 The application will be accessible at `localhost:8080` in both cases.
 
-# Was Trying to learn something new on the go!!
+# Was Trying to learn something new on the go!
 
 
